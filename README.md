@@ -34,7 +34,7 @@ Import the project into Eclipse as a Dynamic Web Project.
 Add MySQL JDBC Driver to the project build path.
 Deploy the project on Apache Tomcat.
 Access the application in a browser:
-http://localhost:8080/JDBC_CRUD_WebApp/
+http://localhost:8080/JDBC_CURD/
 Use the web interface to add, update, or delete employees.
 ________________________________________
 Project Structure
@@ -54,5 +54,5 @@ JDBC_CRUD_WebApp/
 └── README.md
 ________________________________________
 Author
-SHAIK NADHEEM – Developer | Java Enthusiast
+Your Name – Developer | Java Enthusiast
 
